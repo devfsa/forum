@@ -30,12 +30,15 @@ Dê preferência para resultados de documentações oficiais e fóruns especiali
 
 ## Como criar uma boa issue?
 
-1. Faça um título claro e categorizado. Assim será mais fácil de filtrar as issues no repositório. Exemplo:
-    - [Flask] Como trabalhar com migrations no Flask.
+1. Faça um título claro e categorizado (utilizando as labels). Assim será mais fácil de filtrar as issues no repositório. Exemplo:
+    - Trabalhar com JavaScript paga bem?
 
-2. Adicione uma label apropriada para sua issue
+2. Vale lembrar que se sua issue for uma subcategoria e não possuir uma label, é necessário adicionar uma palavra-chave relacionada entre colchetes. Exemplo:
+    - [Flask] Como trabalhar com migrations no Flask
 
-3. Caso seja uma dúvida, lembre-se de descrever o problema e o que você já tentou fazer para solucionar ele.
+3. Adicione uma label apropriada para sua issue
+
+4. Caso seja uma dúvida, lembre-se de descrever o problema e o que você já tentou fazer para solucionar ele.
 
 ## Código de Conduta
 
